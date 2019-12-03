@@ -1,0 +1,51 @@
+<html>
+<head>
+
+<link rel="stylesheet" type="text/css" href="css_style_ex.css">
+
+</head>
+
+<body topmargin="0" bottommargin="0" leftmargin="0" rightmargin="0">
+
+<div id="title_bar">
+ <center>
+ <a style= a href="Main.html"><img src="https://www.kookmin.ac.kr/images/common/footer_logo.gif" alt="Logo" width="170" height="50"></a>
+ </center>
+</div>
+
+<div id="navi">
+ <ul>
+  <li><a href="#">About PIKACHU</a>
+   <ul>
+    <li><a href="#">What is PIKACHU?</a></li>
+    <li><a href="#">Members of PIKACHU</a></li>
+     <ul>
+      <li><a href="#">Members' Portpolio</a></li>
+     </ul>
+    </li>
+   </ul>
+  </li>
+  <li><a href="#">About MIS</a>
+   <ul>
+     <li><a href="#">What is MIS?</a></li>
+     <li><a href="#">What is IT?</a></li>
+     <li><a href="#">IT Trend of This Year</a><li>
+   </ul>
+  </li>
+  <li><a href="#">About Books</a></li>
+ </ul>
+</div>
+
+<div id="banner">
+</div>
+
+<div id="end_bar">
+<p class="end_bar_name">PIKACHU</p>
+<p class="end_bar_name_link"><a href="http://www.kookmin.ac.kr" target="_blank">KOOKMIN UNIVERSITY</a></p>
+<!-- <p class="end_bar_sub">School of MIS<br>College of Business Administration<br>Kookmin University</p> -->
+<ul class="end_bar_profile">서울특별시 성북구 정릉로 77, 국민대학교 경영관<br>COPYRIGHT 2019 KOOKMIN UNIVERSITY MIS PIKACHU. ALL RIGHTS RESERVED.</ul>
+</div>
+
+</body>
+
+</html>
